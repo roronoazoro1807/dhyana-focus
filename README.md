@@ -3,6 +3,11 @@
 
 A comprehensive productivity and wellness application designed to help you maintain focus, reduce stress, and achieve deep work. Combining a Pomodoro timer, intelligent task management, ambient soundscapes, breathing exercises, goal setting, analytics, calendar, and quick notes in one beautiful themed interface.
 
+## 🔗 Live Demo
+
+Check it out live: [https://dhyana-focus.vercel.app](https://dhyana-focus.vercel.app)
+
+
 ## ✨ Core Features
 
 ### 🕒 Focus Timer & Pomodoro
@@ -180,6 +185,13 @@ The application is organized into five main tabs:
 - Inspired by the Pomodoro Technique by Francesco Cirillo
 - Icons provided by Lucide React
 - Sanskrit and Hindi translations for a culturally rich experience
+
+
+## 📄 License
+
+This project is licensed under the [MIT License](./LICENSE).  
+Copyright © 2025 [Amit Kumar Ahirwar](https://github.com/roronoazoro1807)
+
 
 ---
 
