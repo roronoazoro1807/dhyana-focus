@@ -43,7 +43,7 @@ export function BreathingExercise() {
       inhale: 4,
       hold1: 7,
       exhale: 8,
-      color: '#9c27b0'
+      color: 'var(--primary)'
     },
     {
       id: 'deep',
@@ -51,7 +51,7 @@ export function BreathingExercise() {
       description: 'Simple deep breathing with longer exhales to activate the parasympathetic nervous system.',
       inhale: 4,
       exhale: 6,
-      color: '#2196f3'
+      color: 'var(--primary)'
     }
   ];
 
