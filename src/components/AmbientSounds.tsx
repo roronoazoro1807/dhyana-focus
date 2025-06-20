@@ -40,7 +40,7 @@ export function AmbientSounds() {
   const [sounds] = useState<Sound[]>([
     { id: 'rain', name: 'Rain', emoji: '🌧️', url: 'https://www.youtube.com/watch?v=mPZkdNFkNps' },
     { id: 'forest', name: 'Forest', emoji: '🌲', url: 'https://www.youtube.com/watch?v=xNN7iTA57jM' },
-    { id: 'waves', name: 'Ocean Waves', emoji: '🌊', url: 'https://www.youtube.com/watch?v=WHPEKLQID4U' },
+    { id: 'brown-noise', name: 'Brown Noise', emoji: '🟫', url: 'https://youtu.be/QH0t_ogClhA?si=LlI5cY2IUnXv653O' },
     { id: 'fire', name: 'Campfire', emoji: '🔥', url: 'https://www.youtube.com/watch?v=qsOUv9EzKsg' },
     { id: 'cafe', name: 'Cafe', emoji: '☕', url: 'https://www.youtube.com/watch?v=BOdLmxy06H0' },
     { id: 'nature', name: 'Birds & Wind', emoji: '🍃', url: 'https://www.youtube.com/watch?v=Qm846KdZN_c' },
@@ -250,7 +250,7 @@ export function PersistentAmbientPlayer() {
     const sounds = [
       { id: 'rain', url: 'https://www.youtube.com/watch?v=mPZkdNFkNps' },
       { id: 'forest', url: 'https://www.youtube.com/watch?v=xNN7iTA57jM' },
-      { id: 'waves', url: 'https://www.youtube.com/watch?v=WHPEKLQID4U' },
+      { id: 'brown-noise', url: 'https://youtu.be/QH0t_ogClhA?si=LlI5cY2IUnXv653O' },
       { id: 'fire', url: 'https://www.youtube.com/watch?v=qsOUv9EzKsg' },
       { id: 'cafe', url: 'https://www.youtube.com/watch?v=BOdLmxy06H0' },
       { id: 'nature', url: 'https://www.youtube.com/watch?v=Qm846KdZN_c' },
